@@ -1,0 +1,11 @@
+tensorflow==2.20.0
+keras==3.10.0
+numpy
+matplotlib
+pillow
+scikit-learn
+streamlit
+
+
+fpdf  # for PDF generation
+python-dotenv  # for environment variables
