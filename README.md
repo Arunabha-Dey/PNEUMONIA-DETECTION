@@ -32,6 +32,30 @@ The model takes a chest X-ray image as input, processes it through multiple conv
 
 ---
 
+## 📸 Screenshots
+
+### 🩻 Sample Chest X-Ray Images
+
+![Sample Chest X-Ray](images/dataset.png)
+
+### 📈 Training Accuracy
+
+![Training Accuracy](images/training_accuracy.png)
+
+### 📉 Training Loss
+
+![Training Loss](images/training_loss.png)
+
+### 📊 Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 🔍 Model Prediction
+
+![Pneumonia Detection Prediction](images/prediction.png)
+
+---
+
 ## 🏗️ CNN Architecture
 
 The model uses a sequential CNN architecture:
